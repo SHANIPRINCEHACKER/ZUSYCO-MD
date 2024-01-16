@@ -1,12 +1,12 @@
 {
-    "name": "ZUSYCO-MD",
-    "description": "This is an ZUSYCO-MD whatsapp bot created by mr nima.",
+    "name": "👑𝗦𝗛𝗔𝗡𝗜 𝗣𝗥𝗜𝗡𝗖𝗘 𝗕𝗢𝗧👑",
+    "description": "𝑻𝑯𝑰𝑺 𝑰𝑺 𝑨 𝑺𝑯𝑨𝑵𝑰 𝑷𝑹𝑰𝑵𝑪𝑬 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷 𝑩𝑶𝑻 𝑪𝑹𝑬𝑨𝑻𝑬𝑫 𝑩𝒀 𝑺𝑯𝑨𝑵𝑰 𝑷𝑹𝑰𝑵𝑪𝑬 .",
     "repository": "https://github.com/DarkMakerofc/ZUSYCO-MD",
-    "logo": "https://telegra.ph/file/a3cb3587e86dd31a0bc3d.jpg",
+    "logo": "https://telegra.ph/file/3193c3eb0d46f95bc84de.jpg",
     "keywords": [
         "nodejs",
         "Bot",
-        "WhatsApp ZUSYCO-MD Bot"
+        "WhatsApp 𝚂𝙷𝙰𝙽𝙸 𝙿𝚁𝙸𝙽𝙲𝙴 𝙱𝙾𝚃"
     ],
     "buildpacks": [
         {
