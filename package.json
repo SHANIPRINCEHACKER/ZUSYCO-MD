@@ -1,7 +1,7 @@
 {
-  "name": "ZUSYCO-MD",
+  "name": "👑𝗦𝗛𝗔𝗡𝗜 𝗣𝗥𝗜𝗡𝗖𝗘 𝗕𝗢𝗧👑",
   "version": "1.5.0",
-  "description": "Simple WhatsApp bot created by DarkMakerofc (mrnima) for Easy Your Works on Whatsapp.",
+  "description": "Simple WhatsApp bot created by SHANI PRINCE for Easy Your Works on Whatsapp.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -13,7 +13,7 @@
     "automation",
     "nodejs"
   ],
-  "author": "DarkMakerofc (mrnima)",
+  "author": "𝚂𝙷𝙰𝙽𝙸-𝙿𝚁𝙸𝙽𝙲𝙴",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
