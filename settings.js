@@ -22,18 +22,18 @@ module.exports = {
   BOT_NAME : "𝗣𝗥𝗜𝗡𝗖𝗘 𝗕𝗢𝗧",
   ZUSYCO_FILE : "𝗣𝗥𝗜𝗡𝗖𝗘 𝗕𝗢𝗧",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
-    WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
-    GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
+    ALIVE: 'https://telegra.ph/file/ce4fe62eef1182476c3ae.jpg',
+    WELCOME: 'https://telegra.ph/file/f22b9d03c5ed5bdfc6d0c.jpg',
+    GOODBYE: 'https://telegra.ph/file/6b4e3cd39ac92376a991c.jpg'
   },
   STOP_SEND : {
-        WELCOME_MESSAGE : false,
+        WELCOME_MESSAGE : true,
         GOODBYE_MESSAGE : true
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Pakistan",
   WORK_TYPE : "public",
-  WORK_MODE : "onlygroups,private",
+  WORK_MODE : "onlygroups,public",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
   STICKER_PACK : '[ 𝗦𝗛𝗔𝗡𝗜 𝗣𝗥𝗜𝗡𝗖𝗘 ]',
@@ -72,7 +72,7 @@ module.exports = {
     "thugs" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-thugs.mp3",
 
   },
-  AUTO_STICKER : false,
+  AUTO_STICKER : true,
   STICKERS : {
     "pit" : "https://i.ibb.co/NVLMQDP/pit.webp",
     "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
