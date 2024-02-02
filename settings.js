@@ -10,7 +10,7 @@ h/*
 
 
 
-Project Name : 𝗣𝗥𝗜𝗡𝗖𝗘 𝗕𝗢𝗧
+Project Name : PRINCE BOT
 Creator : @SHANI PRINCE , contact creater @+923485964644 
 
 */
